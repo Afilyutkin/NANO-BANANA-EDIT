@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Header from './components/Header';
 import Gallery from './components/Gallery';
 import Editor from './components/Editor';
+import SettingsModal from './components/SettingsModal';
 import { PromptExample, ViewMode } from './types';
 import { LanguageProvider, useLanguage } from './LanguageContext';
 
@@ -9,6 +10,7 @@ const AppContent: React.FC = () => {
   const [currentView, setCurrentView] = useState<'gallery' | 'editor'>('gallery');
   const [selectedPrompt, setSelectedPrompt] = useState<PromptExample | null>(null);
   const [galleryViewMode, setGalleryViewMode] = useState<ViewMode>('all');
+  const [isSettingsOpen, setIsSettingsOpen] = useState(false);
   const { t } = useLanguage();
 
   const handleNavigate = (view: 'gallery' | 'editor') => {
@@ -34,10 +36,16 @@ const AppContent: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-neutral-950 text-white font-sans selection:bg-banana-500/30">
-      <Header 
-        onNavigate={handleNavigate} 
-        currentView={currentView} 
+      <Header
+        onNavigate={handleNavigate}
+        currentView={currentView}
         onShowFavorites={handleShowFavorites}
+        onOpenSettings={() => setIsSettingsOpen(true)}
+      />
+
+      <SettingsModal
+        isOpen={isSettingsOpen}
+        onClose={() => setIsSettingsOpen(false)}
       />
       
       <main className="transition-opacity duration-300">
