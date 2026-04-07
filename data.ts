@@ -278,7 +278,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     // --- 3. Design & Business ---
     {
         "title": "Wide Quote Card",
-        "preview": "https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg",
+        "preview": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=500&h=500&fit=crop",
         "prompt": "A wide quote card featuring a famous person, with a brown background and a light-gold serif font for the quote: “Stay Hungry, Stay Foolish” and smaller text: “—Steve Jobs.” There is a large, subtle quotation mark before the text. The portrait of the person is on the left, the text on the right. The text occupies two-thirds of the image and the portrait one-third, with a slight gradient transition effect on the portrait.",
         "author": "@stark_nico99",
         "link": "https://x.com/stark_nico99/status/1991718646570426763",
@@ -314,7 +314,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Hand-Drawn Header Image",
-        "preview": "https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg",
+        "preview": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=500&fit=crop",
         "prompt": "Completely recreate the uploaded person. Make it a header image for a note article where that person introduces “Nano Banana Pro”. Aspect ratio: horizontal 16:9. Style and colors: simple, hand-drawn style, italic, with a blue and green gradient. Title text: “In-depth explanation of Google’s new AI ‘Nano Banana Pro’”.",
         "author": "@akirakudo_ai",
         "link": "https://x.com/akirakudo_ai/status/1992096860765561190",
@@ -1825,7 +1825,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
 
     {
         "title": "Wide Quote Card with Portrait",
-        "preview": "https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg",
+        "preview": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=500&h=500&fit=crop",
         "prompt": "A wide quote card featuring a famous person, with a brown background and a light-gold serif font for the quote: \"{argument name=\\\"famous_quote\\\" default=\\\"Stay Hungry, Stay Foolish\\\"}\" and smaller text: \"—{argument name=\\\"author\\\" default=\\\"Steve Jobs\\\"}. \" There is a large, subtle quotation mark before the text. The portrait of the person is on the left, the text on the right. The text occupies two-thirds of the image and the portrait one-third, with a slight gradient transition effect on the portrait.",
         "author": "Nicolechan",
         "link": "https://x.com/stark_nico99/status/1991718646570426763",
@@ -1834,7 +1834,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Premium Liquid Glass Bento Grid",
-        "preview": "https://cms-assets.youmind.com/media/1768962051381_l9uih4_537980579-6f29d32a-c786-40c4-bd5a-79c640737496.png",
+        "preview": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=500&h=500&fit=crop",
         "prompt": "Create a premium product infographic using a modular bento grid layout with 8 cards. Each card showcases a different product benefit or feature using liquid glass morphism design. Cards feature:\n\n1. Glossy glass panels with frosted edges\n2. Fluid gradients: teal to cyan to lavender transitions\n3. Semi-transparent backgrounds with 20% opacity\n4. Thin glass borders with light refraction effects\n5. Smooth rounded corners (24px radius)\n6. Subtle shadows creating depth\n7. Icons or illustrations centered in each card\n8. Minimalist typography with 2-3 word descriptions\n\nLayout: 4 cards top row (1 large featured card + 3 standard), 4 cards bottom row (all standard size). Background: dark navy gradient with subtle noise texture. Total composition: 3:2 aspect ratio, premium editorial style, 8K resolution, photorealistic rendering.",
         "author": "YouMind AI Lab",
         "link": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
@@ -1843,7 +1843,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Hand-Drawn Style Header Image",
-        "preview": "https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg",
+        "preview": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=500&fit=crop",
         "prompt": "Completely recreate the uploaded person.\nMake it a header image for a note article where that person introduces \"Nano Banana Pro\".\nAspect ratio: horizontal 16:9.\nStyle and colors: simple, hand-drawn style, italic, with a blue and green gradient.\nTitle text: \"In-depth explanation of Google's new AI 'Nano Banana Pro'\".",
         "author": "セミナー講師専門AIコンシェルジュ｜工藤 晶",
         "link": "https://x.com/akirakudo_ai/status/1992096860765561190",
@@ -1852,7 +1852,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "New Year's Day Special Four-Panel Puzzle",
-        "preview": "https://cms-assets.youmind.com/media/1767455034932_ivuvu0_G9V-MszakAEAIBw.jpg",
+        "preview": "https://images.unsplash.com/photo-1596196841571-1e14fbac0ed9?w=500&h=500&fit=crop",
         "prompt": "[Key: Maintain precise facial features, retain original face structure, the character in the image must be completely consistent with the uploaded reference image] High-end photo studio 2x2 grid photo. Top-left panel (Navy Blue background): The character wears a navy blue uniform-style dress, decorated with gold buttons, vintage curls with a blue beret and pearl earrings. She holds up a huge puzzle piece (top-left piece, with the number \"20\" on it) with both hands, moving it towards the center of the frame. Her eyes are focused on the central puzzle area, her expression is serious, with a slight smile. The background features navy stripes, an anchor, and the text \"Set Sail for the New Year\".",
         "author": "松果先森",
         "link": "https://x.com/songguoxiansen/status/2005822648027091031",
@@ -1861,7 +1861,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Vintage Patent Document for Invention",
-        "preview": "https://cms-assets.youmind.com/media/1766940094520_1mg5pd_G8_m2ZVWEAAMG7y.jpg",
+        "preview": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=500&fit=crop",
         "prompt": "A vintage patent document for {argument name=\"invention\" default=\"INVENTION\"}, styled after late 1800s United States Patent Office filings. The page features precise technical drawings with numbered callouts (Fig. 1, Fig. 2, Fig. 3) showing front, side, and exploded views. Handwritten annotations in fountain-pen ink describe mechanisms. The paper is aged ivory with foxing stains and soft fold creases. An official embossed seal and red wax stamp appear in the corner. A hand-signed inventor's name and date appear at the bottom. The entire image feels like a recovered archival document—authoritative, historic, and slightly mysterious.",
         "author": "Alexandra Aisling",
         "link": "https://x.com/AllaAisling/status/2004212035333365763",
@@ -1946,7 +1946,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
 
     {
         "title": "Urban Fashion Street Style Portrait",
-        "preview": "https://images.unsplash.com/photo-1525261741920-ab801145d23c?w=500https://cms-assets.youmind.com/media/urbanfashion_preview.jpgh=500https://cms-assets.youmind.com/media/urbanfashion_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1525261741920-ab801145d23c?w=500&h=500&fit=crop
         "prompt": "Contemporary urban fashion street style portrait. Subject photographed on a modern city street with minimalist architecture in the background - clean brick walls, geometric building facades, industrial elements. Wearing high-fashion streetwear ensemble with designer pieces, oversized silhouettes, statement accessories. Natural daylight with soft shadows from urban geometry. Professional fashion editorial photography. Subject poses confidently showing off outfit details. Street style aesthetic captured with editorial quality lighting. Urban cool atmosphere, modern style direction, magazine cover quality.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_07",
@@ -1955,7 +1955,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Neon Cyberpunk Portrait",
-        "preview": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=500https://cms-assets.youmind.com/media/cyberpunk_preview.jpgh=500https://cms-assets.youmind.com/media/cyberpunk_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=500&h=500&fit=crop
         "prompt": "Neon cyberpunk futuristic portrait with holographic visual effects. Subject lit by vibrant neon colors - electric pink, cyan blue, neon purple, lime green - creating atmospheric sci-fi lighting. Dark background with particle effects and digital glitch elements. High-tech aesthetic with futuristic fashion elements, metallic textures, LED accessories. Multiple light sources creating colorful shadows and rim lighting. Cyberpunk color grading with high contrast and saturated neon tones. Sci-fi atmosphere, digital art quality, concept art aesthetic. Holographic lens flares and chromatic aberration effects. Dystopian future aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_08",
@@ -1964,7 +1964,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Soft Watercolor Portrait Study",
-        "preview": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=500https://cms-assets.youmind.com/media/watercolor_preview.jpgh=500https://cms-assets.youmind.com/media/watercolor_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=500&h=500&fit=crop
         "prompt": "Delicate soft watercolor portrait with diffused, painterly aesthetic. Subject rendered with flowing watercolor washes in soft color palette - pastels, muted tones, gentle color transitions. Artistic watercolor technique with visible brushstrokes and pigment bleeding. Background featuring subtle watercolor landscape elements fading into white space. Emphasis on softness, emotion, and artistic interpretation over photorealism. Fine art painting aesthetic. Translucent color layers creating depth. Art gallery quality illustration. Romantic, dreamy mood. Traditional watercolor technique with modern subject matter.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_09",
@@ -1973,7 +1973,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Film Noir Detective Scene",
-        "preview": "https://images.unsplash.com/photo-1485095046519-ba2e4530cc5a?w=500https://cms-assets.youmind.com/media/filmnoir_preview.jpgh=500https://cms-assets.youmind.com/media/filmnoir_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1485095046519-ba2e4530cc5a?w=500&h=500&fit=crop
         "prompt": "Classic film noir cinematic portrait with 1940s detective aesthetic. High-contrast black and white cinematography with dramatic chiaroscuro lighting. Subject in fedora and trench coat, atmospheric smoke effects, venetian blind shadows creating geometric patterns. Dark moody ambiance, vintage film stock look, film grain texture. Shadowy cityscape visible through window in background. Subject's face partially obscured by shadows and hat brim. Suspenseful dramatic mood. Classic Hollywood cinema aesthetic. 35mm film look with period-appropriate styling and lighting techniques.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_10",
@@ -1982,7 +1982,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Nature Botanical Portrait",
-        "preview": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=500https://cms-assets.youmind.com/media/botanical_preview.jpgh=500https://cms-assets.youmind.com/media/botanical_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=500&h=500&fit=crop
         "prompt": "Nature-inspired botanical portrait with living plants integrated into composition. Subject surrounded by lush greenery, flowering plants, moss, and natural foliage creating organic frame. Soft natural sunlight filtering through leaves creating dappled light patterns on subject's face and skin. Earthy color palette - greens, browns, soft pinks of flowers. Peaceful serene forest environment. Subject posed gracefully among plants, suggesting harmony with nature. Macro photography details visible in nearby leaves and flowers. Organic, natural aesthetic celebrating connection with environment. Botanical illustration meets portrait photography.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_11",
@@ -2009,7 +2009,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Anime Character Close-up Study",
-        "preview": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500https://cms-assets.youmind.com/media/animeclose_preview.jpgh=500https://cms-assets.youmind.com/media/animeclose_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500&h=500&fit=crop
         "prompt": "Detailed anime character close-up illustration with professional anime studio quality. Subject's face filling most of frame showing detailed eyes with light reflections, expressive facial features, delicate anime-style shading. Colorful anime-appropriate hair style with dimensional shading. Soft pastel color palette typical of modern anime. Studio lighting creating clear subject separation from background. Gentle gradient background in complementary color. Emotional expression captured through eyes and facial features. Anime character design aesthetic. Digital painting technique with smooth color transitions and cel-shading style.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_14",
@@ -2045,7 +2045,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Romantic Renaissance Painting Style",
-        "preview": "https://images.unsplash.com/photo-1469022563149-aa64dbd37dae?w=500https://cms-assets.youmind.com/media/renaissance_preview.jpgh=500https://cms-assets.youmind.com/media/renaissance_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1469022563149-aa64dbd37dae?w=500&h=500&fit=crop
         "prompt": "Classical Renaissance painting style portrait with romantic aesthetic. Subject painted in oil painting technique reminiscent of Renaissance masters - soft focus, subtle color transitions, masterful shadow work. Subject wearing period-appropriate Renaissance garments with rich fabrics and golden accents. Serene background landscape with distant architecture or natural scenery. Soft window lighting creating gentle shadows on face. Color palette of earth tones, deep blues, gold leaf accents. Timeless romantic mood captured with Renaissance portrait conventions - three-quarter pose, gentle gaze, peaceful expression. Museum-quality fine art painting aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_18",
@@ -2054,7 +2054,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Modern Minimalist Studio Portrait",
-        "preview": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=500https://cms-assets.youmind.com/media/minimalist_preview.jpgh=500https://cms-assets.youmind.com/media/minimalist_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1611338350142-f0fe94958eef?w=500&h=500&fit=crop
         "prompt": "Modern minimalist studio portrait with clean aesthetic. Subject photographed against plain neutral background - white, soft gray, or single color. Minimal composition focusing attention entirely on subject. Subject wearing simple monochromatic or neutral-toned clothing. Soft studio lighting creating gentle shadows without harsh contrast. Geometric composition with ample negative space. Focus on subject's facial features and expression. Contemporary art photography style emphasizing simplicity and form. Careful attention to lighting and composition. Zen-like peaceful aesthetic. Gallery-quality minimalist photography.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_19",
@@ -2063,7 +2063,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Dramatic Smoky Moody Portrait",
-        "preview": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=500https://cms-assets.youmind.com/media/smokymoody_preview.jpgh=500https://cms-assets.youmind.com/media/smokymoody_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=500&h=500&fit=crop
         "prompt": "Dramatic moody portrait with atmospheric smoke and fog effects. Subject partially obscured by swirling colored smoke - deep purple, dark blue, amber colors. Atmospheric haze creating mysterious ethereal quality. Subject's features visible through smoke creating intrigue and depth. Dark moody background with subtle light sources. Cinematic dramatic lighting with rim light defining subject's silhouette against smoke. Smoke particles catching light creating visual interest. Gothic mysterious aesthetic. Professional atmospheric photography with smoke machines and lighting effects. Dramatic mood suggesting tension or emotion.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_20",
@@ -2072,7 +2072,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Glowing Neon Fashion Editorial",
-        "preview": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=500https://cms-assets.youmind.com/media/neonfashion_preview.jpgh=500https://cms-assets.youmind.com/media/neonfashion_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=500&h=500&fit=crop
         "prompt": "Vibrant neon fashion editorial portrait with electric color palette. Subject wearing avant-garde futuristic fashion with neon-bright colors - electric pink, acid green, electric blue, hot purple. Subject lit by matching neon color lights creating glowing effect on clothing and skin. Dark background allowing neon colors to pop. High-fashion editorial styling and makeup in complementary neon tones. Sleek modern aesthetic merging fashion and technology. Holographic elements and light reflections in hair and clothing. Professional fashion photography with digital enhancement. Magazine editorial quality. Contemporary high-fashion aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_21",
@@ -2081,7 +2081,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Eastern Ink Brush Portrait",
-        "preview": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500https://cms-assets.youmind.com/media/easternink_preview.jpgh=500https://cms-assets.youmind.com/media/easternink_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=500&fit=crop
         "prompt": "East Asian ink brush painting style portrait inspired by classical Chinese and Japanese art traditions. Subject rendered with flowing brush strokes and ink wash techniques - monochromatic with subtle gradations of black ink. Negative space left intentionally blank following minimalist principles of Eastern art. Subject posed in elegant graceful manner. Calligraphic quality to brushwork emphasizing movement and fluidity. Background minimal - perhaps single branch of bamboo or distant mountains indicated with few bold strokes. Zen aesthetic emphasizing simplicity and spiritual essence over detail. Horizontal orientation on paper. Traditional Eastern painting aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_22",
@@ -2090,7 +2090,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Luxury Jewelry Showcase Portrait",
-        "preview": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500https://cms-assets.youmind.com/media/jewelry_preview.jpgh=500https://cms-assets.youmind.com/media/jewelry_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500&h=500&fit=crop
         "prompt": "High-end luxury jewelry showcase portrait with focus on jewelry details. Subject wearing statement jewelry pieces - elaborate necklaces, chandelier earrings, statement rings, luxury watches. Jewelry catching studio lights creating sparkle and shine. Professional product photography meets portrait photography. Neutral background ensuring jewelry remains focus point. Subject posed to showcase jewelry pieces. Studio lighting emphasizing gemstone details and metal luster. Professional commercial photography aesthetic. High-fashion jewelry editorial style. Careful lighting to avoid glare while maximizing sparkle.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_23",
@@ -2099,7 +2099,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Ethereal Goddess Fantasy Portrait",
-        "preview": "https://images.unsplash.com/photo-1506226613408-eca07ce68773?w=500https://cms-assets.youmind.com/media/goddess_preview.jpgh=500https://cms-assets.youmind.com/media/goddess_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1506226613408-eca07ce68773?w=500&h=500&fit=crop
         "prompt": "Ethereal fantasy goddess portrait with magical celestial aesthetic. Subject glowing with soft supernatural light creating halo effect. Flowing gown with cosmic patterns - stars, galaxies, celestial bodies woven into fabric. Ethereal floating hair suggesting wind or magic. Surrounded by magical particle effects - floating orbs, light trails, cosmic energy. Crown or headdress with jewels catching light. Subject's skin radiating luminescence. Background featuring cosmic elements - nebula clouds, stars, galactic backdrop. Serene divine expression suggesting godlike wisdom. Digital art fantasy illustration quality. Magical lighting effects creating otherworldly aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_24",
@@ -2108,7 +2108,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Urban Graffiti Street Art Portrait",
-        "preview": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=500https://cms-assets.youmind.com/media/graffiti_preview.jpgh=500https://cms-assets.youmind.com/media/graffiti_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=500&h=500&fit=crop
         "prompt": "Bold urban graffiti street art portrait style. Subject rendered as large-scale street art mural on brick wall. Vibrant graffiti colors - bold primary colors, metallic accents, neon highlights. Subject's features stylized with expressive lines and shapes typical of street art aesthetic. Background wall weathered and textured adding authenticity. Tagging and additional graffiti elements surrounding main portrait. Professional street artist technique visible - can control, shading, perspective. Urban gritty aesthetic merged with artistic expression. Energetic bold color choices. Street photography capturing the mural.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_25",
@@ -2117,7 +2117,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Snow Queen Winter Portrait",
-        "preview": "https://images.unsplash.com/photo-1469022563149-aa64dbd37dae?w=500https://cms-assets.youmind.com/media/snowqueen_preview.jpgh=500https://cms-assets.youmind.com/media/snowqueen_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1515814050271-cf3b3f6fbd8d?w=500&h=500&fit=crop
         "prompt": "Regal snow queen winter portrait with ice and snow aesthetic. Subject wearing elaborate white gown with icy crystalline textures - frost patterns, ice shards, snow embellishments. Subject's skin with cool blue undertone appearing as if made of ice. Background of winter landscape - snow-covered trees, frozen waterfall, icy mountains. Cold blue and white color palette with crystalline light reflections. Subject's hair adorned with ice crystals and snowflakes. Regal pose suggesting royalty and power. Magical winter atmosphere. Cinematic lighting creating sparkle and shine on icy elements. Fantasy fairytale aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_26",
@@ -2126,7 +2126,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Vintage Polaroid Snapshot Aesthetic",
-        "preview": "https://images.unsplash.com/photo-1495495317392-0a9e8a1ab48c?w=500https://cms-assets.youmind.com/media/polaroid_preview.jpgh=500https://cms-assets.youmind.com/media/polaroid_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1495495317392-0a9e8a1ab48c?w=500&h=500&fit=crop
         "prompt": "Nostalgic vintage Polaroid instant film photograph aesthetic. Subject photographed with characteristic Polaroid quality - slightly faded colors, warm color cast, soft focus, vignetting around edges. Film borders visible with white Polaroid frame. Slightly washed-out color palette typical of aged instant film. Natural indoor lighting with warm tungsten tones. Casual candid pose suggesting authentic snapshot moment. Grainy texture visible. Color shifts and slight overexposure as in real Polaroid film. Nostalgic 1980s-1990s aesthetic. Retro film photography quality captured with modern technology.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_27",
@@ -2135,7 +2135,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Digital Hologram Avatar Portrait",
-        "preview": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=500https://cms-assets.youmind.com/media/hologram_preview.jpgh=500https://cms-assets.youmind.com/media/hologram_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=500&h=500&fit=crop
         "prompt": "Futuristic digital hologram avatar portrait. Subject rendered as shimmering holographic projection with translucent glowing appearance. Holographic scan lines visible across subject creating digital effect. Subject glows with blue-cyan light radiating outward. Background completely dark emphasizing holographic glow. Pixelated effects suggesting digital origin. Geometric hologram grid patterns visible. Subject composed of light and energy rather than solid matter. Sci-fi aesthetic suggesting advanced technology. Futuristic avatar quality. Digital art with holographic visual effects. Cyberpunk future aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_28",
@@ -2144,7 +2144,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Sensual Silk Fabric Portrait",
-        "preview": "https://images.unsplash.com/photo-1506226613408-eca07ce68773?w=500https://cms-assets.youmind.com/media/silk_preview.jpgh=500https://cms-assets.youmind.com/media/silk_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1506226613408-eca07ce68773?w=500&h=500&fit=crop
         "prompt": "Sensual portrait emphasizing luxurious silk fabric. Subject draped in flowing silk fabrics in jewel tones - deep emerald, sapphire blue, burgundy red, gold. Silk catching light showing lustrous sheen and subtle color shifts. Fabric flowing gracefully around subject creating elegant shapes. Soft romantic lighting emphasizing fabric's luminous quality. Subject's skin glowing against dark silk. Intimate close-up framing. Sensual mood suggested through fabric textures and lighting. Fine art photography aesthetic. Emphasis on luxury materials and tactile qualities. Sophisticated intimate portrait aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_29",
