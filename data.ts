@@ -1886,4 +1886,278 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
         "mode": "generate",
         "category": "Realism & Photo"
     },
+
+    // --- YouMind Awesome Nano Banana Pro Collection - March/April 2026 (30 New Prompts) ---
+
+    {
+        "title": "Hilltop City View Full Body Shot",
+        "preview": "https://cms-assets.youmind.com/media/hilltopcity_preview.jpg",
+        "prompt": "Ultra-realistic full-body fashion photography shot from a scenic hilltop viewpoint overlooking a sprawling cityscape at golden hour. Subject is standing confidently with strong natural sunlight creating dramatic shadows and highlights. The expansive city view with skyscrapers and monuments visible far below in the background creates depth and scale. Professional portrait lighting, detailed facial features with natural makeup, wearing fashionable casual-elegant outfit. Shot on a high-end mirrorless camera with a 85mm lens, f/2.8 aperture creating shallow depth of field. The subject's hair and clothing are perfectly lit by the warm golden sun. Ultra HD, 8K resolution, professional photography, magazine editorial quality.",
+        "author": "glena Jenner",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_01",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "iPhone Selfie Realism (Unfiltered Aesthetic)",
+        "preview": "https://cms-assets.youmind.com/media/iphoneselfie_preview.jpg",
+        "prompt": "Raw, unfiltered iPhone front-camera selfie aesthetic. Authentic mobile phone photography with visible skin pores, natural skin texture, and subtle imperfections. Warm indoor lighting, slightly overexposed with characteristic iPhone sensor behavior. Natural facial expression, candid pose with minimal posing. Visible photographic grain typical of smartphone cameras in lower light. Very close framing showing face clearly. No beauty filters, no Instagram filters, true raw smartphone photography aesthetic. The image captures the genuine, unrefined quality of real iPhone selfies - with slight chromatic aberration, natural white balance, and authentic pore-level detail.",
+        "author": "babydoll",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_02",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Golden Hour Beach Selfie",
+        "preview": "https://cms-assets.youmind.com/media/goldenbeach_preview.jpg",
+        "prompt": "Golden hour beach selfie with soft warm sunlight casting everything in amber and gold tones. Subject wearing an elegant sheer blouse that flows in the ocean breeze. Natural beach environment with soft sand, distant waves, and palm trees silhouetted against the setting sun. Warm golden hour lighting with lens flare effects. Taken with a professional smartphone or mirrorless camera. Wind-swept hair, relaxed natural pose, gentle smile. The sheer fabric of the clothing is backlit by the golden sun creating a luminous effect. Fine details visible in the sand and water spray. Cinematic color grading with warm color temperature. Professional beach photography aesthetic.",
+        "author": "glena Jenner",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_03",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Tropical Balcony Full Body Shot",
+        "preview": "https://cms-assets.youmind.com/media/tropicalbalcony_preview.jpg",
+        "prompt": "Vibrant tropical balcony full-body portrait with bright natural sunlight flooding the scene. Subject standing against tropical background with lush green plants, bougainvillea flowers in vibrant pinks and magentas, and ocean view visible beyond. Wearing colorful tropical outfit with intricate pattern details and flowing fabric. Bright tropical colors - turquoise, coral, lime green, hot pink - surrounding the subject. Strong midday sunlight creating high-contrast shadows and brilliant highlights. Every color detail is crisp and vibrant. Professional fashion photography with cinematic lighting. The tropical flowers and foliage create a natural frame. Rich color saturation, warm tropical color palette, vacation editorial aesthetic. 8K quality.",
+        "author": "glena Jenner",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_04",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Emma Myers Cosplay Mirror Selfie",
+        "preview": "https://cms-assets.youmind.com/media/emmamyerscosplay_preview.jpg",
+        "prompt": "High-resolution mirror selfie of Emma Myers-inspired character cosplay. Subject wearing detailed gaming-aesthetic outfit with specific wardrobe elements: black gothic dress, oversized hoodie, gaming accessories visible in the background (RGB lights, gaming peripherals). Mirror is modern with LED ring light creating professional lighting. Subject's reflection shows precise facial features and makeup details. The mirror selfie captures the character's pose and personality. Gaming room aesthetic visible in the mirror background - posters, neon signs, RGB lighting rigs. Crisp focus on subject's face and upper body. Professional cosplay photography quality with high detail resolution.",
+        "author": "Noira",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_05",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Day and Night Split Portrait",
+        "preview": "https://cms-assets.youmind.com/media/daynight_preview.jpg",
+        "prompt": "Creative vertical split-screen portrait with innovative composition. Left half shows subject in bright daytime sunlight with warm golden hour tones, natural outdoor environment with green foliage background, subject wearing light summer clothing. Right half shows the same subject at night with cool blue-toned artificial lighting, urban environment, wearing completely different dark outfit. The contrast between day and night, warm and cool color temperatures, light and dark moods is striking. Same subject's face visible clearly in both halves allowing comparison. The split down the middle is precise and clean. Professional portrait photography with dramatic lighting contrast. Represents duality - day/night, light/dark, different personas.",
+        "author": "Ashish Sheth",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_06",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+
+    {
+        "title": "Urban Fashion Street Style Portrait",
+        "preview": "https://cms-assets.youmind.com/media/urbanfashion_preview.jpg",
+        "prompt": "Contemporary urban fashion street style portrait. Subject photographed on a modern city street with minimalist architecture in the background - clean brick walls, geometric building facades, industrial elements. Wearing high-fashion streetwear ensemble with designer pieces, oversized silhouettes, statement accessories. Natural daylight with soft shadows from urban geometry. Professional fashion editorial photography. Subject poses confidently showing off outfit details. Street style aesthetic captured with editorial quality lighting. Urban cool atmosphere, modern style direction, magazine cover quality.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_07",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Neon Cyberpunk Portrait",
+        "preview": "https://cms-assets.youmind.com/media/cyberpunk_preview.jpg",
+        "prompt": "Neon cyberpunk futuristic portrait with holographic visual effects. Subject lit by vibrant neon colors - electric pink, cyan blue, neon purple, lime green - creating atmospheric sci-fi lighting. Dark background with particle effects and digital glitch elements. High-tech aesthetic with futuristic fashion elements, metallic textures, LED accessories. Multiple light sources creating colorful shadows and rim lighting. Cyberpunk color grading with high contrast and saturated neon tones. Sci-fi atmosphere, digital art quality, concept art aesthetic. Holographic lens flares and chromatic aberration effects. Dystopian future aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_08",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Soft Watercolor Portrait Study",
+        "preview": "https://cms-assets.youmind.com/media/watercolor_preview.jpg",
+        "prompt": "Delicate soft watercolor portrait with diffused, painterly aesthetic. Subject rendered with flowing watercolor washes in soft color palette - pastels, muted tones, gentle color transitions. Artistic watercolor technique with visible brushstrokes and pigment bleeding. Background featuring subtle watercolor landscape elements fading into white space. Emphasis on softness, emotion, and artistic interpretation over photorealism. Fine art painting aesthetic. Translucent color layers creating depth. Art gallery quality illustration. Romantic, dreamy mood. Traditional watercolor technique with modern subject matter.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_09",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Film Noir Detective Scene",
+        "preview": "https://cms-assets.youmind.com/media/filmnoir_preview.jpg",
+        "prompt": "Classic film noir cinematic portrait with 1940s detective aesthetic. High-contrast black and white cinematography with dramatic chiaroscuro lighting. Subject in fedora and trench coat, atmospheric smoke effects, venetian blind shadows creating geometric patterns. Dark moody ambiance, vintage film stock look, film grain texture. Shadowy cityscape visible through window in background. Subject's face partially obscured by shadows and hat brim. Suspenseful dramatic mood. Classic Hollywood cinema aesthetic. 35mm film look with period-appropriate styling and lighting techniques.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_10",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Nature Botanical Portrait",
+        "preview": "https://cms-assets.youmind.com/media/botanical_preview.jpg",
+        "prompt": "Nature-inspired botanical portrait with living plants integrated into composition. Subject surrounded by lush greenery, flowering plants, moss, and natural foliage creating organic frame. Soft natural sunlight filtering through leaves creating dappled light patterns on subject's face and skin. Earthy color palette - greens, browns, soft pinks of flowers. Peaceful serene forest environment. Subject posed gracefully among plants, suggesting harmony with nature. Macro photography details visible in nearby leaves and flowers. Organic, natural aesthetic celebrating connection with environment. Botanical illustration meets portrait photography.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_11",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Vintage Retro 70s Portrait",
+        "preview": "https://cms-assets.youmind.com/media/retro70s_preview.jpg",
+        "prompt": "Groovy 1970s vintage retro portrait with authentic period aesthetic. Subject wearing 70s fashion - bell-bottoms, patterned shirts, peace symbols, afro hairstyles. Warm saturated color palette - burnt orange, mustard yellow, avocado green, rust red. Film photography texture with visible grain and color shift. Retro set design with period furniture, lava lamps, wood paneling in background. Soft diffused lighting typical of 70s photography. Hazy atmospheric effect. Vintage magazine cover aesthetic. Disco era vibes. Authentic 70s color grading and photographic quality.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_12",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Fantasy Medieval Character Portrait",
+        "preview": "https://cms-assets.youmind.com/media/medieval_preview.jpg",
+        "prompt": "Fantasy medieval character portrait with epic fantasy aesthetic. Subject wearing elaborate medieval armor, ornate chainmail, decorative metals with intricate engravings. Fantasy setting with castle architecture, stone walls, torch lighting in background. Subject posed heroically with noble bearing. Rich colors - deep crimsons, golds, silvers, deep blues. Professional fantasy art illustration style. Dramatic lighting emphasizing armor details and facial features. Renaissance painting technique combined with modern digital art. Fantasy RPG character concept art quality. Epic fantasy narrative aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_13",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Anime Character Close-up Study",
+        "preview": "https://cms-assets.youmind.com/media/animeclose_preview.jpg",
+        "prompt": "Detailed anime character close-up illustration with professional anime studio quality. Subject's face filling most of frame showing detailed eyes with light reflections, expressive facial features, delicate anime-style shading. Colorful anime-appropriate hair style with dimensional shading. Soft pastel color palette typical of modern anime. Studio lighting creating clear subject separation from background. Gentle gradient background in complementary color. Emotional expression captured through eyes and facial features. Anime character design aesthetic. Digital painting technique with smooth color transitions and cel-shading style.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_14",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Professional Corporate Headshot",
+        "preview": "https://cms-assets.youmind.com/media/corporate_preview.jpg",
+        "prompt": "Professional corporate business headshot with executive portrait aesthetics. Subject wearing formal business attire - tailored suit, professional jewelry. Neutral professional background in muted gray or blue tone. Flattering portrait lighting setup with key light and fill light creating natural shadows. Confident professional expression, good posture. Subject photographed from chest up. Neutral background ensuring subject is focus point. Corporate photography quality - sharp focus, professional color grading, proper white balance. LinkedIn-appropriate professional image. Executive portrait aesthetic. Studio portrait lighting.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_15",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Underwater Beauty Portrait",
+        "preview": "https://cms-assets.youmind.com/media/underwater_preview.jpg",
+        "prompt": "Ethereal underwater portrait with subject submerged in clear turquoise water. Subject swimming gracefully with flowing hair and clothing creating elegant motion. Soft filtered sunlight from above creating god rays and dappled light patterns. Bubbles rising creating magical effect. Subject's skin glowing with reflected light from water. Transparent water allowing clear detail visibility. Serene peaceful underwater environment. Blue-green color palette with warm light from above. Professional underwater photography with careful lighting to avoid dark shadows. Dreamlike magical atmosphere. Fine art underwater portrait aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_16",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Steampunk Inventor Portrait",
+        "preview": "https://cms-assets.youmind.com/media/steampunk_preview.jpg",
+        "prompt": "Steampunk inventor character portrait with Victorian-futuristic aesthetic. Subject wearing ornate steampunk outfit with brass goggles, leather straps, mechanical accessories, gears, and clockwork elements integrated into clothing. Background featuring industrial steampunk workshop with mechanical devices, steam pipes, brass machinery, Edison bulbs, aged metal surfaces. Warm golden-brown color palette with burnished metals and patina effects. Subject posed with mechanical props or tools. Detailed craftsmanship visible in costume elements. Intricate background details creating rich steampunk worldbuilding. Fantasy technology aesthetic combined with Victorian style.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_17",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Romantic Renaissance Painting Style",
+        "preview": "https://cms-assets.youmind.com/media/renaissance_preview.jpg",
+        "prompt": "Classical Renaissance painting style portrait with romantic aesthetic. Subject painted in oil painting technique reminiscent of Renaissance masters - soft focus, subtle color transitions, masterful shadow work. Subject wearing period-appropriate Renaissance garments with rich fabrics and golden accents. Serene background landscape with distant architecture or natural scenery. Soft window lighting creating gentle shadows on face. Color palette of earth tones, deep blues, gold leaf accents. Timeless romantic mood captured with Renaissance portrait conventions - three-quarter pose, gentle gaze, peaceful expression. Museum-quality fine art painting aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_18",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Modern Minimalist Studio Portrait",
+        "preview": "https://cms-assets.youmind.com/media/minimalist_preview.jpg",
+        "prompt": "Modern minimalist studio portrait with clean aesthetic. Subject photographed against plain neutral background - white, soft gray, or single color. Minimal composition focusing attention entirely on subject. Subject wearing simple monochromatic or neutral-toned clothing. Soft studio lighting creating gentle shadows without harsh contrast. Geometric composition with ample negative space. Focus on subject's facial features and expression. Contemporary art photography style emphasizing simplicity and form. Careful attention to lighting and composition. Zen-like peaceful aesthetic. Gallery-quality minimalist photography.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_19",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Dramatic Smoky Moody Portrait",
+        "preview": "https://cms-assets.youmind.com/media/smokymoody_preview.jpg",
+        "prompt": "Dramatic moody portrait with atmospheric smoke and fog effects. Subject partially obscured by swirling colored smoke - deep purple, dark blue, amber colors. Atmospheric haze creating mysterious ethereal quality. Subject's features visible through smoke creating intrigue and depth. Dark moody background with subtle light sources. Cinematic dramatic lighting with rim light defining subject's silhouette against smoke. Smoke particles catching light creating visual interest. Gothic mysterious aesthetic. Professional atmospheric photography with smoke machines and lighting effects. Dramatic mood suggesting tension or emotion.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_20",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Glowing Neon Fashion Editorial",
+        "preview": "https://cms-assets.youmind.com/media/neonfashion_preview.jpg",
+        "prompt": "Vibrant neon fashion editorial portrait with electric color palette. Subject wearing avant-garde futuristic fashion with neon-bright colors - electric pink, acid green, electric blue, hot purple. Subject lit by matching neon color lights creating glowing effect on clothing and skin. Dark background allowing neon colors to pop. High-fashion editorial styling and makeup in complementary neon tones. Sleek modern aesthetic merging fashion and technology. Holographic elements and light reflections in hair and clothing. Professional fashion photography with digital enhancement. Magazine editorial quality. Contemporary high-fashion aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_21",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Eastern Ink Brush Portrait",
+        "preview": "https://cms-assets.youmind.com/media/easternink_preview.jpg",
+        "prompt": "East Asian ink brush painting style portrait inspired by classical Chinese and Japanese art traditions. Subject rendered with flowing brush strokes and ink wash techniques - monochromatic with subtle gradations of black ink. Negative space left intentionally blank following minimalist principles of Eastern art. Subject posed in elegant graceful manner. Calligraphic quality to brushwork emphasizing movement and fluidity. Background minimal - perhaps single branch of bamboo or distant mountains indicated with few bold strokes. Zen aesthetic emphasizing simplicity and spiritual essence over detail. Horizontal orientation on paper. Traditional Eastern painting aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_22",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Luxury Jewelry Showcase Portrait",
+        "preview": "https://cms-assets.youmind.com/media/jewelry_preview.jpg",
+        "prompt": "High-end luxury jewelry showcase portrait with focus on jewelry details. Subject wearing statement jewelry pieces - elaborate necklaces, chandelier earrings, statement rings, luxury watches. Jewelry catching studio lights creating sparkle and shine. Professional product photography meets portrait photography. Neutral background ensuring jewelry remains focus point. Subject posed to showcase jewelry pieces. Studio lighting emphasizing gemstone details and metal luster. Professional commercial photography aesthetic. High-fashion jewelry editorial style. Careful lighting to avoid glare while maximizing sparkle.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_23",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Ethereal Goddess Fantasy Portrait",
+        "preview": "https://cms-assets.youmind.com/media/goddess_preview.jpg",
+        "prompt": "Ethereal fantasy goddess portrait with magical celestial aesthetic. Subject glowing with soft supernatural light creating halo effect. Flowing gown with cosmic patterns - stars, galaxies, celestial bodies woven into fabric. Ethereal floating hair suggesting wind or magic. Surrounded by magical particle effects - floating orbs, light trails, cosmic energy. Crown or headdress with jewels catching light. Subject's skin radiating luminescence. Background featuring cosmic elements - nebula clouds, stars, galactic backdrop. Serene divine expression suggesting godlike wisdom. Digital art fantasy illustration quality. Magical lighting effects creating otherworldly aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_24",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Urban Graffiti Street Art Portrait",
+        "preview": "https://cms-assets.youmind.com/media/graffiti_preview.jpg",
+        "prompt": "Bold urban graffiti street art portrait style. Subject rendered as large-scale street art mural on brick wall. Vibrant graffiti colors - bold primary colors, metallic accents, neon highlights. Subject's features stylized with expressive lines and shapes typical of street art aesthetic. Background wall weathered and textured adding authenticity. Tagging and additional graffiti elements surrounding main portrait. Professional street artist technique visible - can control, shading, perspective. Urban gritty aesthetic merged with artistic expression. Energetic bold color choices. Street photography capturing the mural.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_25",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Snow Queen Winter Portrait",
+        "preview": "https://cms-assets.youmind.com/media/snowqueen_preview.jpg",
+        "prompt": "Regal snow queen winter portrait with ice and snow aesthetic. Subject wearing elaborate white gown with icy crystalline textures - frost patterns, ice shards, snow embellishments. Subject's skin with cool blue undertone appearing as if made of ice. Background of winter landscape - snow-covered trees, frozen waterfall, icy mountains. Cold blue and white color palette with crystalline light reflections. Subject's hair adorned with ice crystals and snowflakes. Regal pose suggesting royalty and power. Magical winter atmosphere. Cinematic lighting creating sparkle and shine on icy elements. Fantasy fairytale aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_26",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Vintage Polaroid Snapshot Aesthetic",
+        "preview": "https://cms-assets.youmind.com/media/polaroid_preview.jpg",
+        "prompt": "Nostalgic vintage Polaroid instant film photograph aesthetic. Subject photographed with characteristic Polaroid quality - slightly faded colors, warm color cast, soft focus, vignetting around edges. Film borders visible with white Polaroid frame. Slightly washed-out color palette typical of aged instant film. Natural indoor lighting with warm tungsten tones. Casual candid pose suggesting authentic snapshot moment. Grainy texture visible. Color shifts and slight overexposure as in real Polaroid film. Nostalgic 1980s-1990s aesthetic. Retro film photography quality captured with modern technology.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_27",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Digital Hologram Avatar Portrait",
+        "preview": "https://cms-assets.youmind.com/media/hologram_preview.jpg",
+        "prompt": "Futuristic digital hologram avatar portrait. Subject rendered as shimmering holographic projection with translucent glowing appearance. Holographic scan lines visible across subject creating digital effect. Subject glows with blue-cyan light radiating outward. Background completely dark emphasizing holographic glow. Pixelated effects suggesting digital origin. Geometric hologram grid patterns visible. Subject composed of light and energy rather than solid matter. Sci-fi aesthetic suggesting advanced technology. Futuristic avatar quality. Digital art with holographic visual effects. Cyberpunk future aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_28",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
+    {
+        "title": "Sensual Silk Fabric Portrait",
+        "preview": "https://cms-assets.youmind.com/media/silk_preview.jpg",
+        "prompt": "Sensual portrait emphasizing luxurious silk fabric. Subject draped in flowing silk fabrics in jewel tones - deep emerald, sapphire blue, burgundy red, gold. Silk catching light showing lustrous sheen and subtle color shifts. Fabric flowing gracefully around subject creating elegant shapes. Soft romantic lighting emphasizing fabric's luminous quality. Subject's skin glowing against dark silk. Intimate close-up framing. Sensual mood suggested through fabric textures and lighting. Fine art photography aesthetic. Emphasis on luxury materials and tactile qualities. Sophisticated intimate portrait aesthetic.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_29",
+        "mode": "generate",
+        "category": "Realism & Photo"
+    },
+    {
+        "title": "Pixel Art Character Portrait",
+        "preview": "https://cms-assets.youmind.com/media/pixelart_preview.jpg",
+        "prompt": "Retro pixel art character portrait in 8-bit or 16-bit video game aesthetic. Subject rendered with limited color palette typical of classic video game sprites. Blocky pixelated appearance showing individual pixels forming subject's features. Subject's hair, clothing, and facial features created from colored pixel blocks. Nostalgic 1980s-1990s video game aesthetic. Simple but expressive features conveying personality despite pixel limitations. Bright saturated colors typical of classic arcade games. Character portrait reminiscent of RPG game characters. Retro gaming aesthetic with intentional pixel style.",
+        "author": "YouMind Lab",
+        "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_30",
+        "mode": "generate",
+        "category": "Art & Illustration"
+    },
 ];
