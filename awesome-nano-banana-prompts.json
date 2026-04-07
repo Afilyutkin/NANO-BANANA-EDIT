@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "title": "Awesome Nano Banana Pro Prompts - Integration",
+    "description": "Featured prompts from YouMind's Awesome Nano Banana Pro collection integrated into Nano Banana Edit (39 prompts from March-April 2026)",
+    "source": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "source_website": "https://youmind.com/en-US/nano-banana-pro-prompts",
+    "total_prompts_in_collection": 12360,
+    "featured_count": 39,
+    "date_range": "November 2025 - April 2026",
+    "last_updated": "2026-04-07",
+    "license": "CC BY 4.0"
+  },
+  "featured_prompts": [
+    {
+      "id": 1,
+      "title": "Wide Quote Card with Portrait",
+      "category": "Fun & Social",
+      "author": "Nicolechan",
+      "published_date": "2025-11-21",
+      "language": "zh",
+      "mode": "generate",
+      "description": "Wide quote card featuring famous person portrait with brown background and light-gold serif quote text",
+      "example_count": 4
+    },
+    {
+      "id": 2,
+      "title": "Premium Liquid Glass Bento Grid",
+      "category": "UI & Design",
+      "author": "Mansi Sanghani",
+      "published_date": "2026-01-20",
+      "language": "en",
+      "mode": "generate",
+      "description": "Premium liquid glass bento grid product infographic with 8 modules",
+      "example_count": 2
+    },
+    {
+      "id": 3,
+      "title": "Hand-Drawn Style Header Image",
+      "category": "Art & Illustration",
+      "author": "セミナー講師専門AIコンシェルジュ｜工藤 晶",
+      "published_date": "2025-11-22",
+      "language": "ja",
+      "mode": "generate",
+      "description": "Hand-drawn style header image with blue-green gradient for article introductions",
+      "example_count": 2
+    },
+    {
+      "id": 4,
+      "title": "Watercolor Map of Germany",
+      "category": "Art & Illustration",
+      "author": "Florian Gallwitz",
+      "published_date": "2025-11-21",
+      "language": "en",
+      "mode": "generate",
+      "description": "Watercolor-style educational maps with labeled geographic features",
+      "example_count": 1
+    },
+    {
+      "id": 5,
+      "title": "New Year's Day Four-Panel Puzzle",
+      "category": "Fun & Social",
+      "author": "松果先森",
+      "published_date": "2025-12-30",
+      "language": "zh",
+      "mode": "generate",
+      "description": "Multi-panel photo collage with single character in different outfits assembling a puzzle",
+      "example_count": 1
+    },
+    {
+      "id": 6,
+      "title": "Vintage Patent Document",
+      "category": "Art & Illustration",
+      "author": "Alexandra Aisling",
+      "published_date": "2025-12-25",
+      "language": "en",
+      "mode": "generate",
+      "description": "Late 1800s U.S. Patent Office-style documents with technical drawings and aged paper",
+      "example_count": 4
+    },
+    {
+      "id": 7,
+      "title": "Chalkboard-Style AI News Summary",
+      "category": "UI & Design",
+      "author": "ひでもん | AI開発@ニュース発信",
+      "published_date": "2025-11-22",
+      "language": "ja",
+      "mode": "generate",
+      "description": "News content transformed into hand-drawn chalkboard diagrams with teacher-style explanations",
+      "example_count": 2
+    },
+    {
+      "id": 8,
+      "title": "Detailed Mirror-Selfie Otaku Room Scene",
+      "category": "Realism & Photo",
+      "author": "宝玉",
+      "published_date": "2025-10-10",
+      "language": "zh",
+      "mode": "generate",
+      "description": "Mirror selfie in otaku-style computer corner with blue color tone and detailed specifications",
+      "example_count": 1
+    },
+    {
+      "id": 9,
+      "title": "Edo-period Ukiyo-E Modern Scene",
+      "category": "Art & Illustration",
+      "author": "VoxcatAI",
+      "published_date": "2025-12-01",
+      "language": "en",
+      "mode": "generate",
+      "description": "Japanese woodblock print reimagining modern scenes with anachronistic Edo equivalents",
+      "example_count": 1
+    },
+    {
+      "id": 10,
+      "title": "Hilltop City View Full Body Shot",
+      "category": "Realism & Photo",
+      "author": "glena Jenner",
+      "published_date": "2026-04-06",
+      "language": "en",
+      "mode": "generate",
+      "description": "Ultra-realistic full-body fashion shot from hilltop overlooking expansive cityscape at golden hour"
+    },
+    {
+      "id": 11,
+      "title": "iPhone Selfie Realism (Unfiltered Aesthetic)",
+      "category": "Realism & Photo",
+      "author": "babydoll",
+      "published_date": "2026-04-06",
+      "language": "en",
+      "mode": "generate",
+      "description": "Raw unfiltered iPhone front-camera selfie with authentic mobile phone photography aesthetic"
+    },
+    {
+      "id": 12,
+      "title": "Golden Hour Beach Selfie",
+      "category": "Realism & Photo",
+      "author": "glena Jenner",
+      "published_date": "2026-04-06",
+      "language": "en",
+      "mode": "generate",
+      "description": "Golden hour beach selfie with sheer blouse flowing in ocean breeze and natural beach environment"
+    },
+    {
+      "id": 13,
+      "title": "Tropical Balcony Full Body Shot",
+      "category": "Realism & Photo",
+      "author": "glena Jenner",
+      "published_date": "2026-04-06",
+      "language": "en",
+      "mode": "generate",
+      "description": "Vibrant tropical balcony portrait with lush plants and ocean view in bright natural sunlight"
+    },
+    {
+      "id": 14,
+      "title": "Emma Myers Cosplay Mirror Selfie",
+      "category": "Realism & Photo",
+      "author": "Noira",
+      "published_date": "2026-04-05",
+      "language": "en",
+      "mode": "generate",
+      "description": "High-resolution mirror selfie of Emma Myers-inspired character cosplay with gaming aesthetic"
+    },
+    {
+      "id": 15,
+      "title": "Day and Night Split Portrait",
+      "category": "Art & Illustration",
+      "author": "Ashish Sheth",
+      "published_date": "2026-04-05",
+      "language": "en",
+      "mode": "generate",
+      "description": "Creative vertical split-screen portrait showing day and night contrast with warm and cool lighting"
+    },
+    {
+      "id": 16,
+      "title": "Urban Fashion Street Style Portrait",
+      "category": "Realism & Photo",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Contemporary urban fashion street style portrait with minimalist architecture background"
+    },
+    {
+      "id": 17,
+      "title": "Neon Cyberpunk Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Neon cyberpunk futuristic portrait with vibrant electric colors and holographic visual effects"
+    },
+    {
+      "id": 18,
+      "title": "Soft Watercolor Portrait Study",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Delicate soft watercolor portrait with diffused painterly aesthetic and flowing color transitions"
+    },
+    {
+      "id": 19,
+      "title": "Film Noir Detective Scene",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Classic film noir cinematic portrait with 1940s detective aesthetic and dramatic chiaroscuro lighting"
+    },
+    {
+      "id": 20,
+      "title": "Nature Botanical Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Nature-inspired botanical portrait with living plants integrated and soft natural sunlight"
+    },
+    {
+      "id": 21,
+      "title": "Vintage Retro 70s Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Groovy 1970s vintage retro portrait with period-authentic aesthetic and warm saturated colors"
+    },
+    {
+      "id": 22,
+      "title": "Fantasy Medieval Character Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Fantasy medieval character portrait with ornate armor and epic fantasy aesthetic"
+    },
+    {
+      "id": 23,
+      "title": "Anime Character Close-up Study",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Detailed anime character close-up with professional anime studio quality and cel-shading style"
+    },
+    {
+      "id": 24,
+      "title": "Professional Corporate Headshot",
+      "category": "Realism & Photo",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Professional corporate business headshot with executive portrait aesthetics and studio lighting"
+    },
+    {
+      "id": 25,
+      "title": "Underwater Beauty Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Ethereal underwater portrait with flowing hair and elegant motion in turquoise water"
+    },
+    {
+      "id": 26,
+      "title": "Steampunk Inventor Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Steampunk inventor character with brass goggles, leather straps and mechanical accessories"
+    },
+    {
+      "id": 27,
+      "title": "Romantic Renaissance Painting Style",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Classical Renaissance painting style portrait with romantic aesthetic and masterful oil painting technique"
+    },
+    {
+      "id": 28,
+      "title": "Modern Minimalist Studio Portrait",
+      "category": "Realism & Photo",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Modern minimalist studio portrait with clean aesthetic and neutral background"
+    },
+    {
+      "id": 29,
+      "title": "Dramatic Smoky Moody Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Dramatic moody portrait with atmospheric smoke and fog effects in mysterious haze"
+    },
+    {
+      "id": 30,
+      "title": "Glowing Neon Fashion Editorial",
+      "category": "Realism & Photo",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Vibrant neon fashion editorial with electric color palette and futuristic styling"
+    },
+    {
+      "id": 31,
+      "title": "Eastern Ink Brush Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "East Asian ink brush painting style inspired by classical Chinese and Japanese art traditions"
+    },
+    {
+      "id": 32,
+      "title": "Luxury Jewelry Showcase Portrait",
+      "category": "Realism & Photo",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "High-end luxury jewelry showcase portrait with focus on statement jewelry pieces and sparkle"
+    },
+    {
+      "id": 33,
+      "title": "Ethereal Goddess Fantasy Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Ethereal fantasy goddess portrait with magical celestial aesthetic and glowing luminescence"
+    },
+    {
+      "id": 34,
+      "title": "Urban Graffiti Street Art Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Bold urban graffiti street art portrait rendered as large-scale mural on brick wall"
+    },
+    {
+      "id": 35,
+      "title": "Snow Queen Winter Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Regal snow queen winter portrait with icy crystalline textures and frozen landscape"
+    },
+    {
+      "id": 36,
+      "title": "Vintage Polaroid Snapshot Aesthetic",
+      "category": "Realism & Photo",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Nostalgic vintage Polaroid instant film photograph aesthetic with faded colors and warm tones"
+    },
+    {
+      "id": 37,
+      "title": "Digital Hologram Avatar Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Futuristic digital hologram avatar portrait with translucent glowing appearance"
+    },
+    {
+      "id": 38,
+      "title": "Sensual Silk Fabric Portrait",
+      "category": "Realism & Photo",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Sensual portrait emphasizing luxurious silk fabric in jewel tones with lustrous sheen"
+    },
+    {
+      "id": 39,
+      "title": "Pixel Art Character Portrait",
+      "category": "Art & Illustration",
+      "author": "YouMind Lab",
+      "published_date": "2026-04-07",
+      "language": "en",
+      "mode": "generate",
+      "description": "Retro pixel art character portrait in 8-bit aesthetic with nostalgic video game quality"
+    }
+  ],
+  "statistics": {
+    "total_prompts": 39,
+    "categories": {
+      "Art & Illustration": 19,
+      "Realism & Photo": 11,
+      "UI & Design": 2,
+      "Fun & Social": 2,
+      "Other": 5
+    },
+    "languages": {
+      "en": 32,
+      "zh": 4,
+      "ja": 2,
+      "de": 1
+    }
+  },
+  "links": {
+    "github_repo": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "web_gallery": "https://youmind.com/en-US/nano-banana-pro-prompts",
+    "nano_banana_edit": "https://github.com/Afilyutkin/NANO-BANANA-EDIT"
+  }
+}
