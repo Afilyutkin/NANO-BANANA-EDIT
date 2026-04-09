@@ -39,25 +39,9 @@ export const categoryColors: Record<string, { bg: string; text: string; accent: 
   }
 };
 
-// Category icons/emojis
-export const categoryIcons: Record<string, string> = {
-  'Art & Illustration': '🎨',
-  'Design & Business': '💼',
-  'Realism & Photo': '📸',
-  'Creative Art': '✨',
-  'Fun & Social': '🎉',
-  'Learning & Utility': '📚',
-  'UI & Design': '🎭'
-};
-
 // Get color scheme for a category
 export const getCategoryColor = (category: string) => {
   return categoryColors[category] || categoryColors['Art & Illustration'];
-};
-
-// Get icon for a category
-export const getCategoryIcon = (category: string) => {
-  return categoryIcons[category] || '📌';
 };
 
 // Group prompts by category
