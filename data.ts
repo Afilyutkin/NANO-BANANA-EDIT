@@ -599,7 +599,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Brazilian bus",
-        "preview": "https://pbs.twimg.com/media/G8iLJKiWEAAvAr6?format=jpg&name=large",
+        "preview": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=500&fit=crop",
         "prompt": "Ultra-realistic editorial photograph based strictly on a real photographic reference of the model, created for fashion and contemporary urban culture. The scene looks like a real photograph captured inside a real Brazilian city bus at night, transformed into an immersive art installation with absolutely no illustration, CGI, digital painting or artificial rendered appearance. The complete interior of the Brazilian urban bus is fully preserved and recognizable: floor, ceiling, walls, windows, seats, handrails and metal bars. All interior surfaces are covered with continuous neon doodle graffiti applied directly onto real materials, depicting iconic contemporary animation characters (Rick & Morty, The Simpsons, Futurama, Steven Universe) reinterpreted as fluorescent urban street art, not cartoon, not illustrated, not rendered. Active black light makes the graffiti glow intensely. A large suspended mirrored disco ball projects moving reflections, while thin realistic smoke drifts through colored LED beams, creating depth, volume and an underground electronic party atmosphere. Vertical 9:16 format, hyper-realistic cinematic editorial photography, spontaneous moment captured at peak nocturnal energy, nothing staged or artificial. An adult woman stands in the central aisle of the bus with a confident, vibrant and charismatic presence. Loose hair with natural movement, a few strands partially crossing the face, with colorful braids subtly woven into specific sections of the hair in an organic and realistic way. Body posture is intentional yet relaxed: torso slightly projected forward, hips shifted to the right, neck leaning forward with casual confidence. Facial expression is authentic and unposed, as if she is fully enjoying an electronic party and briefly pauses for a photo: a natural smile or relaxed half-smile, lively sparkling eyes, playful and genuine emotion, nothing forced or overly sensual, a real moment interrupted in the flow of the night. Both hands naturally hold the inner vertical bars of the bus, fingers fully visible, anatomically correct and physically interacting with the bars with no clipping or intersections. Long nails with an orange glitter finish react realistically to black light and LED reflections. She wears light-wash denim jeans with realistic wear texture, natural creases and subtle distressing. A burgundy shirt tied above the navel with three buttons open, discreetly revealing a top underneath. A neutral beret naturally fitted on the head. Round glasses with transparent frames and translucent red lenses. Bra straps slightly visible beneath the fabric in a natural way. A ruby belly-button piercing and a thin hoop piercing in the right nostril. Lighting is dominated by black light activating neon graffiti, nails and clothing details, while colored LED beams reflect off the mirrored disco ball, projecting moving points of light across skin, fabric and surfaces. Light interacts physically and realistically with materials, without over-glow or artificial exaggeration. Composition is a medium-short shot with a frontal 3/4 angle; strong internal lines of the bus lead the eye directly to the subject’s face. The background has subtle motion blur, floating smoke and luminous particles, maintaining depth while keeping the subject sharply in focus. Colors are saturated, vibrant neon, yet controlled and cinematic. Use exclusively the face and body of the reference model, preserving facial identity exactly: bone structure, proportions, skin texture, age, hair and all distinctive features, with no face stylization, no redesign and no beautification.",
         "author": "@Zar_xplorer",
         "link": "https://x.com/Zar_xplorer/status/2002003029151891699?referrer=grok-com",
@@ -1206,7 +1206,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Photograph and Solve",
-        "preview": "https://linux.do/uploads/default/optimized/4X/1/5/1/1518d978c948fb70ab03c11537db1e1f5136249e_2_1000x1000.jpeg",
+        "preview": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=500&fit=crop",
         "prompt": "Provide a handwritten, illustrated solution to this problem",
         "author": "LinuxDO@poyo",
         "link": "https://linux.do/t/topic/1205627",
@@ -1287,7 +1287,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Solve Problem from Photo",
-        "preview": "https://linux.do/uploads/default/optimized/4X/1/5/1/1518d978c948fb70ab03c11537db1e1f5136249e_2_1000x1000.jpeg",
+        "preview": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&h=500&fit=crop",
         "prompt": "Handwrite the solution to this problem with illustrations and text",
         "author": "LinuxDO@poyo",
         "link": "https://linux.do/t/topic/1205627",
@@ -1350,7 +1350,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Business Headshot",
-        "preview": "https://cdn.jsdelivr.net/gh/glidea/banana-prompt-quicker@main/images/professional_business_portrait.jpg",
+        "preview": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=500&h=500&fit=crop",
         "prompt": "Keep the facial features of the person in the uploaded image exactly the same.\nDress them in a professional navy blue business suit and white shirt, similar to the reference image.\nBackground: Place the subject in front of a clean, solid dark grey studio photography background. The background should have a subtle gradient, slightly lighter behind the subject and darker at the edges (vignette effect). There should be no other objects.\nPhotography Style: Shot with a Sony A7III camera and 85mm f/1.4 lens, creating a beautiful portrait compression effect.\nLighting: Use classic three-point lighting. The key light should create soft, defined shadows on the face. A subtle rim light should separate the subject's shoulders and hair from the dark background.\nKey Details: Render natural skin texture with visible pores, not an over-smoothed effect. Add natural catchlights to the eyes. The suit fabric should show a subtle wool texture.\nThe final image should be a hyper-realistic 8k professional headshot.",
         "author": "Wechat@01Founder",
         "link": "https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ",
@@ -1377,7 +1377,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Film Style Portrait",
-        "preview": "https://cdn.jsdelivr.net/gh/glidea/banana-prompt-quicker@main/images/cinematic_studio_portrait.jpg",
+        "preview": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&h=500&fit=crop",
         "prompt": "Keep the facial features of the person in the uploaded image exactly the same.\nStyle: A cinematic, emotional portrait shot on Kodak Portra 400 film.\nScene: By the window of a city street cafe during golden hour (sunset). Warm, nostalgic light hits one side of the face.\nAtmosphere: Apply subtle film grain and soft focus to create a dreamy, storytelling vibe.\nAction: Subject looks slightly away, not at the camera, holding a coffee cup, expression relaxed and natural.\nDetails: High quality, depth of field, background is bokeh city lights.",
         "author": "Wechat@01Founder",
         "link": "https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ",
@@ -1607,7 +1607,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Generate Character A-pose Design Sheet",
-        "preview": "https://linux.do/uploads/default/original/4X/9/c/8/9c8b413ed123820810b7893d1e07e5f84e151b99.jpeg",
+        "preview": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=500&h=500&fit=crop",
         "prompt": "Horizontal image, create an A-pose design sheet for the character in the image (do not copy the pose in the image), off-white background.\nFeels like an initial design.\nSplit into various parts.\nExpression variations, multi-angle expressions\nItem breakdown, detail close-ups.\nAnd use handwritten text for annotations, preferably in Chinese.\nCharacter: Maintain the existing features of the character body, such as face shape, hair color, body shape, etc.\nClothing and image composition must follow these requirements:\nBelow is the extraction of character clothing details and image parts\nII. Image Part Details\nThe entire design sheet is clearly divided into four main areas:\nLeft area: Three-view display\nTop middle area: Breakdown of various parts\nBottom middle area: Inner wear design breakdown\nRight area: Detail close-ups\nThink step by step according to the following requirements:\nStep1: Extract character body features\nStep2: Plan clothing details\nStep3: Think about characteristic requirements\nStep4: Generate image conforming to the partition content format",
         "author": "LinuxDO@TheSmallHanCat",
         "link": "https://linux.do/t/topic/1204197",
@@ -1825,7 +1825,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
 
     {
         "title": "Wide Quote Card with Portrait",
-        "preview": "https://images.unsplash.com/photo-1511379938547-c1f69b13441?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=500&h=500&fit=crop",
         "prompt": "A wide quote card featuring a famous person, with a brown background and a light-gold serif font for the quote: \"{argument name=\\\"famous_quote\\\" default=\\\"Stay Hungry, Stay Foolish\\\"}\" and smaller text: \"—{argument name=\\\"author\\\" default=\\\"Steve Jobs\\\"}. \" There is a large, subtle quotation mark before the text. The portrait of the person is on the left, the text on the right. The text occupies two-thirds of the image and the portrait one-third, with a slight gradient transition effect on the portrait.",
         "author": "Nicolechan",
         "link": "https://x.com/stark_nico99/status/1991718646570426763",
@@ -1852,7 +1852,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "New Year's Day Special Four-Panel Puzzle",
-        "preview": "https://images.unsplash.com/photo-1596196841571-1e14fbac0ed9?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=500&h=500&fit=crop",
         "prompt": "[Key: Maintain precise facial features, retain original face structure, the character in the image must be completely consistent with the uploaded reference image] High-end photo studio 2x2 grid photo. Top-left panel (Navy Blue background): The character wears a navy blue uniform-style dress, decorated with gold buttons, vintage curls with a blue beret and pearl earrings. She holds up a huge puzzle piece (top-left piece, with the number \"20\" on it) with both hands, moving it towards the center of the frame. Her eyes are focused on the central puzzle area, her expression is serious, with a slight smile. The background features navy stripes, an anchor, and the text \"Set Sail for the New Year\".",
         "author": "松果先森",
         "link": "https://x.com/songguoxiansen/status/2005822648027091031",
@@ -1861,7 +1861,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Vintage Patent Document for Invention",
-        "preview": "https://images.unsplash.com/photo-1507842741648-551b1fbc7405?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1586769852044-692d6e3703f0?w=500&h=500&fit=crop",
         "prompt": "A vintage patent document for {argument name=\"invention\" default=\"INVENTION\"}, styled after late 1800s United States Patent Office filings. The page features precise technical drawings with numbered callouts (Fig. 1, Fig. 2, Fig. 3) showing front, side, and exploded views. Handwritten annotations in fountain-pen ink describe mechanisms. The paper is aged ivory with foxing stains and soft fold creases. An official embossed seal and red wax stamp appear in the corner. A hand-signed inventor's name and date appear at the bottom. The entire image feels like a recovered archival document—authoritative, historic, and slightly mysterious.",
         "author": "Alexandra Aisling",
         "link": "https://x.com/AllaAisling/status/2004212035333365763",
@@ -1891,7 +1891,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
 
     {
         "title": "Hilltop City View Full Body Shot",
-        "preview": "https://images.unsplash.com/photo-1542359649-ccebb73ee88f?w=500https://cms-assets.youmind.com/media/hilltopcity_preview.jpgh=500https://cms-assets.youmind.com/media/hilltopcity_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=500&h=500&fit=crop",
         "prompt": "Ultra-realistic full-body fashion photography shot from a scenic hilltop viewpoint overlooking a sprawling cityscape at golden hour. Subject is standing confidently with strong natural sunlight creating dramatic shadows and highlights. The expansive city view with skyscrapers and monuments visible far below in the background creates depth and scale. Professional portrait lighting, detailed facial features with natural makeup, wearing fashionable casual-elegant outfit. Shot on a high-end mirrorless camera with a 85mm lens, f/2.8 aperture creating shallow depth of field. The subject's hair and clothing are perfectly lit by the warm golden sun. Ultra HD, 8K resolution, professional photography, magazine editorial quality.",
         "author": "glena Jenner",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_01",
@@ -1927,7 +1927,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Emma Myers Cosplay Mirror Selfie",
-        "preview": "https://images.unsplash.com/photo-1535016120754-e32375c9833d?w=500https://cms-assets.youmind.com/media/emmamyerscosplay_preview.jpgh=500https://cms-assets.youmind.com/media/emmamyerscosplay_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&h=500&fit=crop",
         "prompt": "High-resolution mirror selfie of Emma Myers-inspired character cosplay. Subject wearing detailed gaming-aesthetic outfit with specific wardrobe elements: black gothic dress, oversized hoodie, gaming accessories visible in the background (RGB lights, gaming peripherals). Mirror is modern with LED ring light creating professional lighting. Subject's reflection shows precise facial features and makeup details. The mirror selfie captures the character's pose and personality. Gaming room aesthetic visible in the mirror background - posters, neon signs, RGB lighting rigs. Crisp focus on subject's face and upper body. Professional cosplay photography quality with high detail resolution.",
         "author": "Noira",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_05",
@@ -1936,7 +1936,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Day and Night Split Portrait",
-        "preview": "https://images.unsplash.com/photo-1495365200640-5e8ee86b78a7?w=500https://cms-assets.youmind.com/media/daynight_preview.jpgh=500https://cms-assets.youmind.com/media/daynight_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=500&h=500&fit=crop",
         "prompt": "Creative vertical split-screen portrait with innovative composition. Left half shows subject in bright daytime sunlight with warm golden hour tones, natural outdoor environment with green foliage background, subject wearing light summer clothing. Right half shows the same subject at night with cool blue-toned artificial lighting, urban environment, wearing completely different dark outfit. The contrast between day and night, warm and cool color temperatures, light and dark moods is striking. Same subject's face visible clearly in both halves allowing comparison. The split down the middle is precise and clean. Professional portrait photography with dramatic lighting contrast. Represents duality - day/night, light/dark, different personas.",
         "author": "Ashish Sheth",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_06",
@@ -1946,7 +1946,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
 
     {
         "title": "Urban Fashion Street Style Portrait",
-        "preview": "https://images.unsplash.com/photo-1525261741920-ab801145d23c?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=500&h=500&fit=crop",
         "prompt": "Contemporary urban fashion street style portrait. Subject photographed on a modern city street with minimalist architecture in the background - clean brick walls, geometric building facades, industrial elements. Wearing high-fashion streetwear ensemble with designer pieces, oversized silhouettes, statement accessories. Natural daylight with soft shadows from urban geometry. Professional fashion editorial photography. Subject poses confidently showing off outfit details. Street style aesthetic captured with editorial quality lighting. Urban cool atmosphere, modern style direction, magazine cover quality.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_07",
@@ -1973,7 +1973,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Film Noir Detective Scene",
-        "preview": "https://images.unsplash.com/photo-1485095046519-ba2e4530cc5a?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1555448248-2571daf6344b?w=500&h=500&fit=crop",
         "prompt": "Classic film noir cinematic portrait with 1940s detective aesthetic. High-contrast black and white cinematography with dramatic chiaroscuro lighting. Subject in fedora and trench coat, atmospheric smoke effects, venetian blind shadows creating geometric patterns. Dark moody ambiance, vintage film stock look, film grain texture. Shadowy cityscape visible through window in background. Subject's face partially obscured by shadows and hat brim. Suspenseful dramatic mood. Classic Hollywood cinema aesthetic. 35mm film look with period-appropriate styling and lighting techniques.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_10",
@@ -1991,7 +1991,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Vintage Retro 70s Portrait",
-        "preview": "https://images.unsplash.com/photo-1490462709967-d1a28e63ee3c?w=500https://cms-assets.youmind.com/media/retro70s_preview.jpgh=500https://cms-assets.youmind.com/media/retro70s_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500&h=500&fit=crop",
         "prompt": "Groovy 1970s vintage retro portrait with authentic period aesthetic. Subject wearing 70s fashion - bell-bottoms, patterned shirts, peace symbols, afro hairstyles. Warm saturated color palette - burnt orange, mustard yellow, avocado green, rust red. Film photography texture with visible grain and color shift. Retro set design with period furniture, lava lamps, wood paneling in background. Soft diffused lighting typical of 70s photography. Hazy atmospheric effect. Vintage magazine cover aesthetic. Disco era vibes. Authentic 70s color grading and photographic quality.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_12",
@@ -2000,7 +2000,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Fantasy Medieval Character Portrait",
-        "preview": "https://images.unsplash.com/photo-1534126613592-d6070eb6f158?w=500https://cms-assets.youmind.com/media/medieval_preview.jpgh=500https://cms-assets.youmind.com/media/medieval_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1553481187-be93c21490a9?w=500&h=500&fit=crop",
         "prompt": "Fantasy medieval character portrait with epic fantasy aesthetic. Subject wearing elaborate medieval armor, ornate chainmail, decorative metals with intricate engravings. Fantasy setting with castle architecture, stone walls, torch lighting in background. Subject posed heroically with noble bearing. Rich colors - deep crimsons, golds, silvers, deep blues. Professional fantasy art illustration style. Dramatic lighting emphasizing armor details and facial features. Renaissance painting technique combined with modern digital art. Fantasy RPG character concept art quality. Epic fantasy narrative aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_13",
@@ -2036,7 +2036,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Steampunk Inventor Portrait",
-        "preview": "https://images.unsplash.com/photo-1525712528199-b5d5f73cad29?w=500https://cms-assets.youmind.com/media/steampunk_preview.jpgh=500https://cms-assets.youmind.com/media/steampunk_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1518709779341-56cf4535e94b?w=500&h=500&fit=crop",
         "prompt": "Steampunk inventor character portrait with Victorian-futuristic aesthetic. Subject wearing ornate steampunk outfit with brass goggles, leather straps, mechanical accessories, gears, and clockwork elements integrated into clothing. Background featuring industrial steampunk workshop with mechanical devices, steam pipes, brass machinery, Edison bulbs, aged metal surfaces. Warm golden-brown color palette with burnished metals and patina effects. Subject posed with mechanical props or tools. Detailed craftsmanship visible in costume elements. Intricate background details creating rich steampunk worldbuilding. Fantasy technology aesthetic combined with Victorian style.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_17",
@@ -2045,7 +2045,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Romantic Renaissance Painting Style",
-        "preview": "https://images.unsplash.com/photo-1469022563149-aa64dbd37dae?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=500&h=500&fit=crop",
         "prompt": "Classical Renaissance painting style portrait with romantic aesthetic. Subject painted in oil painting technique reminiscent of Renaissance masters - soft focus, subtle color transitions, masterful shadow work. Subject wearing period-appropriate Renaissance garments with rich fabrics and golden accents. Serene background landscape with distant architecture or natural scenery. Soft window lighting creating gentle shadows on face. Color palette of earth tones, deep blues, gold leaf accents. Timeless romantic mood captured with Renaissance portrait conventions - three-quarter pose, gentle gaze, peaceful expression. Museum-quality fine art painting aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_18",
@@ -2054,7 +2054,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Modern Minimalist Studio Portrait",
-        "preview": "https://images.unsplash.com/photo-1611338350142-f0fe94958eef?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=500&h=500&fit=crop",
         "prompt": "Modern minimalist studio portrait with clean aesthetic. Subject photographed against plain neutral background - white, soft gray, or single color. Minimal composition focusing attention entirely on subject. Subject wearing simple monochromatic or neutral-toned clothing. Soft studio lighting creating gentle shadows without harsh contrast. Geometric composition with ample negative space. Focus on subject's facial features and expression. Contemporary art photography style emphasizing simplicity and form. Careful attention to lighting and composition. Zen-like peaceful aesthetic. Gallery-quality minimalist photography.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_19",
@@ -2099,7 +2099,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Ethereal Goddess Fantasy Portrait",
-        "preview": "https://images.unsplash.com/photo-1506226613408-eca07ce68773?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=500&h=500&fit=crop",
         "prompt": "Ethereal fantasy goddess portrait with magical celestial aesthetic. Subject glowing with soft supernatural light creating halo effect. Flowing gown with cosmic patterns - stars, galaxies, celestial bodies woven into fabric. Ethereal floating hair suggesting wind or magic. Surrounded by magical particle effects - floating orbs, light trails, cosmic energy. Crown or headdress with jewels catching light. Subject's skin radiating luminescence. Background featuring cosmic elements - nebula clouds, stars, galactic backdrop. Serene divine expression suggesting godlike wisdom. Digital art fantasy illustration quality. Magical lighting effects creating otherworldly aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_24",
@@ -2117,7 +2117,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Snow Queen Winter Portrait",
-        "preview": "https://images.unsplash.com/photo-1515814050271-cf3b3f6fbd8d?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1542372147193-a7aca54189cd?w=500&h=500&fit=crop",
         "prompt": "Regal snow queen winter portrait with ice and snow aesthetic. Subject wearing elaborate white gown with icy crystalline textures - frost patterns, ice shards, snow embellishments. Subject's skin with cool blue undertone appearing as if made of ice. Background of winter landscape - snow-covered trees, frozen waterfall, icy mountains. Cold blue and white color palette with crystalline light reflections. Subject's hair adorned with ice crystals and snowflakes. Regal pose suggesting royalty and power. Magical winter atmosphere. Cinematic lighting creating sparkle and shine on icy elements. Fantasy fairytale aesthetic.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_26",
@@ -2126,7 +2126,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Vintage Polaroid Snapshot Aesthetic",
-        "preview": "https://images.unsplash.com/photo-1495495317392-0a9e8a1ab48c?w=500&h=500&fit=crop",
+        "preview": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=500&h=500&fit=crop",
         "prompt": "Nostalgic vintage Polaroid instant film photograph aesthetic. Subject photographed with characteristic Polaroid quality - slightly faded colors, warm color cast, soft focus, vignetting around edges. Film borders visible with white Polaroid frame. Slightly washed-out color palette typical of aged instant film. Natural indoor lighting with warm tungsten tones. Casual candid pose suggesting authentic snapshot moment. Grainy texture visible. Color shifts and slight overexposure as in real Polaroid film. Nostalgic 1980s-1990s aesthetic. Retro film photography quality captured with modern technology.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_27",
@@ -2153,7 +2153,7 @@ export const PROMPT_EXAMPLES: PromptExample[] = [
     },
     {
         "title": "Pixel Art Character Portrait",
-        "preview": "https://images.unsplash.com/photo-1559208169-4b9f4c2dcf61?w=500https://cms-assets.youmind.com/media/pixelart_preview.jpgh=500https://cms-assets.youmind.com/media/pixelart_preview.jpgfit=crop",
+        "preview": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500&h=500&fit=crop",
         "prompt": "Retro pixel art character portrait in 8-bit or 16-bit video game aesthetic. Subject rendered with limited color palette typical of classic video game sprites. Blocky pixelated appearance showing individual pixels forming subject's features. Subject's hair, clothing, and facial features created from colored pixel blocks. Nostalgic 1980s-1990s video game aesthetic. Simple but expressive features conveying personality despite pixel limitations. Bright saturated colors typical of classic arcade games. Character portrait reminiscent of RPG game characters. Retro gaming aesthetic with intentional pixel style.",
         "author": "YouMind Lab",
         "link": "https://youmind.com/en-US/nano-banana-pro-prompts?id=april2026_30",
